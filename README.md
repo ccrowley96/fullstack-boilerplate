@@ -19,7 +19,7 @@ This is a monolithic boilerplate repo for kickstarting fullstack applications fo
 ## Create .env file at the root of the repository with the following fields
 |Key | Value|
 |-------- | -----|
-|PORT | `3000`|
+|PORT | `5000`|
 |MONGO_CONNECT_DEV | `mongodb://127.0.0.1:27017/fullstack_boilerplate` (where _fullstack_boilerplate_ is the name of the database your want to use for development)|
 |GOOGLE_CLIENT_ID | client ID from console.cloud.google.com|
 |JWT_SECRET | any string that is complex and not easy to guess / brute force |
